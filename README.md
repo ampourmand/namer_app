@@ -1,16 +1,10 @@
 # namer_app
 
-A new Flutter project.
+A Flutter app that generates random word pairs and lets users save their favorites.
 
-## Getting Started
+### Developed by Amir with Flutter
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/5d9255f5-f5c1-49a9-a8bb-95157b85dfe4" width="250" />
+  <img src="https://github.com/user-attachments/assets/cf3b7faa-7dc6-46e1-a19a-4814eccd1efa" width="250" /> 
+</p>
